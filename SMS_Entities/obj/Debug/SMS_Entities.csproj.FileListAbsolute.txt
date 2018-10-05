@@ -1,0 +1,10 @@
+D:\ADO\Day1_AdoConnectedDemo\SMS_Entities\bin\Debug\SMS_Entities.dll
+D:\ADO\Day1_AdoConnectedDemo\SMS_Entities\bin\Debug\SMS_Entities.pdb
+D:\ADO\Day1_AdoConnectedDemo\SMS_Entities\obj\Debug\SMS_Entities.dll
+D:\ADO\Day1_AdoConnectedDemo\SMS_Entities\obj\Debug\SMS_Entities.pdb
+D:\ADO\Day1_AdoConnectedDemo\SMS_Entities\obj\Debug\SMS_Entities.csprojResolveAssemblyReference.cache
+D:\M2\Day1_AdoConnectedDemo\SMS_Entities\bin\Debug\SMS_Entities.dll
+D:\M2\Day1_AdoConnectedDemo\SMS_Entities\bin\Debug\SMS_Entities.pdb
+D:\M2\Day1_AdoConnectedDemo\SMS_Entities\obj\Debug\SMS_Entities.csprojResolveAssemblyReference.cache
+D:\M2\Day1_AdoConnectedDemo\SMS_Entities\obj\Debug\SMS_Entities.dll
+D:\M2\Day1_AdoConnectedDemo\SMS_Entities\obj\Debug\SMS_Entities.pdb
