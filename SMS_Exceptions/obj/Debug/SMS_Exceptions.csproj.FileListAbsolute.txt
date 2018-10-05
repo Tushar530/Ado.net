@@ -1,0 +1,10 @@
+D:\ADO\Day1_AdoConnectedDemo\SMS_Exceptions\bin\Debug\SMS_Exceptions.dll
+D:\ADO\Day1_AdoConnectedDemo\SMS_Exceptions\bin\Debug\SMS_Exceptions.pdb
+D:\ADO\Day1_AdoConnectedDemo\SMS_Exceptions\obj\Debug\SMS_Exceptions.csprojResolveAssemblyReference.cache
+D:\ADO\Day1_AdoConnectedDemo\SMS_Exceptions\obj\Debug\SMS_Exceptions.dll
+D:\ADO\Day1_AdoConnectedDemo\SMS_Exceptions\obj\Debug\SMS_Exceptions.pdb
+D:\M2\Day1_AdoConnectedDemo\SMS_Exceptions\bin\Debug\SMS_Exceptions.dll
+D:\M2\Day1_AdoConnectedDemo\SMS_Exceptions\bin\Debug\SMS_Exceptions.pdb
+D:\M2\Day1_AdoConnectedDemo\SMS_Exceptions\obj\Debug\SMS_Exceptions.csprojResolveAssemblyReference.cache
+D:\M2\Day1_AdoConnectedDemo\SMS_Exceptions\obj\Debug\SMS_Exceptions.dll
+D:\M2\Day1_AdoConnectedDemo\SMS_Exceptions\obj\Debug\SMS_Exceptions.pdb
