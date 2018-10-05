@@ -1,0 +1,24 @@
+﻿<Window x:Class="SMS.PL.Linq_Demo1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SMS.PL"
+        mc:Ignorable="d"
+        Title="Linq_Demo1" Height="400" Width="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width = "auto"/>
+            <ColumnDefinition Width = "auto"/>
+        </Grid.ColumnDefinitions>
+        <TextBox Name ="txtNumbers1" Width ="250"  Grid.Row="0" Grid.Column="0" Margin= "2.5" />
+        <Button Name= "btnFirst" Width ="80" Content = "First Binding." Grid.Row="0" Grid.Column="1" Margin="2.5" Click="btnFirst_Click" />
+    </Grid>
+</Window>
